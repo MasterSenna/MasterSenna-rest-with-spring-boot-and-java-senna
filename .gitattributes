@@ -1,0 +1,7 @@
+*.java linguist-language=Java
+
+
+git add .gitattributes
+
+git commit -m "Adicionando arquivo .gitattributes para configuração do Linguist"
+
